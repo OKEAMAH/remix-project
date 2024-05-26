@@ -21,7 +21,7 @@
     "@ethereumjs/vm": "8.0.0",
     "@remix-project/remix-lib": "^0.5.55",
     "async": "^2.6.2",
-    "eslint-scope": "^5.0.0",
+    "eslint-scope": "^8.0.1",
     "ethers": "^5.4.2",
     "ethjs-util": "^0.1.6",
     "minixhr": "^3.2.2",
