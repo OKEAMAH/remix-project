@@ -24,7 +24,7 @@
     "eslint-scope": "^5.0.0",
     "ethers": "^6.12.1",
     "ethjs-util": "^0.1.6",
-    "minixhr": "^3.2.2",
+    "minixhr": "^4.0.0",
     "semver": "^6.3.0",
     "solc": "^0.8.25",
     "string-similarity": "^4.0.4",
